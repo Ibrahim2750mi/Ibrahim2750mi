@@ -5,14 +5,14 @@
 ## Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++&logoColor=white)
-![](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=c#&logoColor=black)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Flask-316192?style=for-the-badge&logo=flaskl&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/numpy-339933?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Qt-109989?style=for-the-badge&logo=Qt&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Statistics
 
