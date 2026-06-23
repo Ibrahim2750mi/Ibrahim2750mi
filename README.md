@@ -1,4 +1,4 @@
-# :computer:  Ibrahim
+# :computer:  Mohammad Ibrahim
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ibrahim2750mi" alt="Ibrahim2750mi" /> </p>
 
