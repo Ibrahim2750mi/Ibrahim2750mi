@@ -27,6 +27,13 @@
 ![](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![](https://img.shields.io/badge/PennyLane-19B5FE?style=for-the-badge)
 
+### Game Development & Graphics
+
+![](https://img.shields.io/badge/Python%20Arcade-3776AB?style=for-the-badge)
+![](https://img.shields.io/badge/Game%20Development-222222?style=for-the-badge)
+![](https://img.shields.io/badge/3D%20Graphics-444444?style=for-the-badge)
+![](https://img.shields.io/badge/Rendering%20Engine-666666?style=for-the-badge)
+
 ### Development
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,6 +54,20 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+
+## Published Libraries
+
+* 📦 [LiquidRed](https://pypi.org/project/LiquidRed/) — Python 3D rendering engine
+* 🎵 [PyMusic-Instrument](https://pypi.org/project/PyMusic-Instrument/) — Instrument sound generation library
+
+## Open Source Contributions
+
+* 🤝 [Arcade](https://github.com/pythonarcade/arcade)
+* 🤝 [Python Discord Bot](https://github.com/python-discord/bot)
+
+
+https://pypi.org/project/PyMusic-Instrument/
 
 ## Statistics
 
