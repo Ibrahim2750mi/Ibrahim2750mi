@@ -4,8 +4,7 @@
 
 ## Highlights
 
-* 📄 Co-author of **MatMMExtract** (Research published on arXiv)
-* 📦 Co-author of **MatMMExtract**
+* 📄 Co-author of **MatMMExtract** (Research published on arXiv and library on PyPi)
 * 📦 Author of **LiquidRed**
 * 🎵 Author of **PyMusic-Instrument**
 * 🤝 Contributor to **Arcade**
