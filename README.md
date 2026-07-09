@@ -4,29 +4,27 @@
 
 ## Highlights
 
-
-
-* 📦 Author of LiquidRed
-* 🎵 Author of PyMusic-Instrument
-* 🤝 Contributor to Arcade
-* 🤝 Contributor to the Python Discord Bot
+* 📄 Co-author of **MatMMExtract** (Research published on arXiv)
+* 📦 Co-author of **MatMMExtract**
+* 📦 Author of **LiquidRed**
+* 🎵 Author of **PyMusic-Instrument**
+* 🤝 Contributor to **Arcade**
+* 🤝 Contributor to the **Python Discord Bot**
+* 🤖 Machine Learning & Computer Vision (PyTorch, Multimodal AI)
 * ⚛️ Quantum Computing (Qiskit, PennyLane)
 * 🔧 Hardware Development (RISC-V, Verilog, Arduino, ESP32)
 
+## Publications
 
+* 📄 **MatMMExtract: A Toolkit for Building Multimodal Scientific Figure Datasets from Research Papers** — https://arxiv.org/abs/2508.11011
 
 ## Published Libraries
 
-
-
+* 📦 [MatMMExtract](https://pypi.org/project/matmmextract/) — Toolkit for extracting figures, captions, and multimodal datasets from scientific papers
 * 📦 [LiquidRed](https://pypi.org/project/LiquidRed/) — Python 3D rendering engine
 * 🎵 [PyMusic-Instrument](https://pypi.org/project/PyMusic-Instrument/) — Instrument sound generation library
 
-
-
 ## Open Source Contributions
-
-
 
 * 🤝 [Arcade](https://github.com/pythonarcade/arcade)
 * 🤝 [Python Discord Bot](https://github.com/python-discord/bot)
