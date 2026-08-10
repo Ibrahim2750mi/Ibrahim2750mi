@@ -25,8 +25,8 @@
 
 ## Open Source Contributions
 
-* 🤝 [Arcade](https://github.com/pythonarcade/arcade)
-* 🤝 [Python Discord Bot](https://github.com/python-discord/bot)
+* 🤝 [Arcade](https://github.com/pythonarcade/arcade) - 33 PRs merged
+* 🤝 [Python Discord Bot](https://github.com/python-discord/bot) - 5 PRs merged
 
 
 
